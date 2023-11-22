@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    border: solid orange;
+}
+
+.Site-footer {
+    border: solid orange;
+}
+
+Img {
+    display: block;
+    height: 350px;
+    width: 40%;
+    margin: 20px auto;
+
+}
