@@ -3,7 +3,7 @@ import './App.css';
 import Header from './Components/Header';
 import Footer from './Components/Footer'
 import FoodForm from './Components/FoodForm'
-import ImgBox from './Components/Img-box'
+import ImgBox from './Components/ImgBox'
 
 function App() {
   return (
