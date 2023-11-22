@@ -2,7 +2,7 @@
 import './App.css';
 import Header from './Components/Header';
 import Footer from './Components/Footer'
-import Input from './Components/Input'
+import FoodForm from './Components/FoodForm'
 import Img from './Components/Img'
 
 function App() {
