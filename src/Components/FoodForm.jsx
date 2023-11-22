@@ -1,6 +1,6 @@
 import React from "react";
 import './Index.css';
-function Input() {
+function FoodForm() {
     return (
         <div className="Input-box"> 
 <form>
@@ -17,4 +17,4 @@ function Input() {
     );
 };
   
-export default Input;
+export default FoodForm;
