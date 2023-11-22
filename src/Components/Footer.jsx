@@ -1,5 +1,5 @@
 import React from "react";
-import './index.css';
+import './Index.css';
 function Footer() {
     return (
         <div className="Site-footer"> 

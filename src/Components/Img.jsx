@@ -1,6 +1,6 @@
 import React from "react";
 import img from './Img/Plov.jpg'
-import './index.css';
+import './Index.css';
 function Img() {
     return (
         <div className="Img-box"> 

@@ -1,6 +1,6 @@
 import React from "react";
-import './index.css';
-function Test() {
+import './Index.css';
+function Header() {
     return (
         <div> 
             <h1>
@@ -12,4 +12,4 @@ function Test() {
 };
   
 
-export default Test;
+export default Header;

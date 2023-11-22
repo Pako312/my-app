@@ -1,5 +1,5 @@
 import React from "react";
-import './index.css';
+import './Index.css';
 function Input() {
     return (
         <div className="Input-box"> 

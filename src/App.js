@@ -8,10 +8,10 @@ import Img from './Components/Img'
 function App() {
   return (
     <div className="App">
-      <Test />
+      <Header />
       <Input />
       <Img />
-      <Test />
+      <Header />
       <Footer/>
     </div>
   );
