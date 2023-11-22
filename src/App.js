@@ -3,14 +3,14 @@ import './App.css';
 import Header from './Components/Header';
 import Footer from './Components/Footer'
 import FoodForm from './Components/FoodForm'
-import Img from './Components/Img'
+import ImgBox from './Components/Img-box'
 
 function App() {
   return (
     <div className="App">
       <Header />
       <FoodForm />
-      <Img />
+      <ImgBox />
       <Header />
       <Footer/>
     </div>

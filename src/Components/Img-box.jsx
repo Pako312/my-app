@@ -1,7 +1,7 @@
 import React from "react";
 import img from './Img/Plov.jpg'
 import './Index.css';
-function Img() {
+function ImgBox() {
     return (
         <div className="Img-box"> 
             <img src={img} alt="" />
@@ -10,4 +10,4 @@ function Img() {
 };
   
 
-export default Img;
+export default ImgBox;
